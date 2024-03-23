@@ -11,7 +11,3 @@ A dad-joke repository. Log in to save your faves!
 * Next.js
 * Tailwind
 * Supabase
-
-## Author
-
-> [Ian Marshall](https://ianjstutor.github.io/ian-marshall/)
